@@ -3,7 +3,7 @@
 
 ## Overview
 
-This analysis examines district-wide standardized tests based on several key metrics, including average math and reading scores, as well as school type and relative school budget.
+This analysis examines school district-wide standardized math and reading tests based on several key metrics, including average scores, school type and school budget.
 
 ## Key Findings
 
